@@ -1,0 +1,20 @@
+{
+  "name": "Teaching_Proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archish99/teaching-proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archish99/teaching-proj/issues"
+  },
+  "homepage": "https://github.com/archish99/teaching-proj#readme"
+}
